@@ -51,7 +51,7 @@ mvn clean tomcat7:deploy
 -Dtomcat.admin.password=your_tomcat_password
 -Dtomcat.admin=your_tomcat_username
 -Dtomcat.deploy.url=your_tomcat_url
--Denvironment=oss
+    -Denvironment=oss
 ```
 
 ## Repository conventions
@@ -114,7 +114,6 @@ git rebase develop
 Then, push your changes as explained before to your fork repository to be ready for the pull request!
 
 8. __Open a pull request from this feature branch to our repository;__
-Finally, from your forked remote repository URL, https://github.com/YourRepository, select the nameOfYourIssue#1 branch and press the "New pull request button". Hence, this will create a pull request to our repository. We will then test your branch, and discuss the pull request together. When accepted, your changes will be inserted into our develop branch by merging your development branch to our develop branch.
-
-
+Finally, from your forked remote repository URL, https://github.com/YourRepository, select the nameOfYourIssue#1 branch and press the "New pull request button". Hence, this will create a pull request to our repository. We will then test your branch, and discuss the pull request together. When accepted, your changes will be inserted into our develop branch by merging your development branch to our develop branc
+#ins
 
