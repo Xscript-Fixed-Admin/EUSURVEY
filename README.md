@@ -13,7 +13,7 @@ EUSurvey is the official online survey management tool of the European Commissio
 Extensive installation guidelines may be found [here](https://joinup.ec.europa.eu/sites/default/files/document/2017-08/eusurvey_oss_installation_guide_v1_4_0_1.pdf). We give a summary of installation guidelines here.
 
 ### Database initialization
-1. Create eusurvey schemas;
+    1. Create eusurvey schemas;z.
 ``` sql 
 create database eusurveydb character set utf8 COLLATE utf8_general_ci;
 create database eusurveyreportdb character set utf8 COLLATE utf8_general_ci;
