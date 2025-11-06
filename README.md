@@ -5,7 +5,7 @@ EUSurvey is the official online survey management tool of the European Commissio
 
 ## Installation requirements
 1. Tomcat 8
-1. Java 8
+1. Java 10
 1. MySQL 5.7
 1. Maven
 
