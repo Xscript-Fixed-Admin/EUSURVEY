@@ -115,6 +115,6 @@ Then, push your changes as explained before to your fork repository to be ready 
 
 8. __Open a pull request from this feature branch to our repository;__
 Finally, from your forked remote repository URL, https://github.com/YourRepository, select the nameOfYourIssue#1 branch and press the "New pull request button". Hence, this will create a pull request to our repository. We will then test your branch, and discuss the pull request together. When accepted, your changes will be inserted into our develop branch by merging your development branch to our develop branch.
-
+pull
 
 
